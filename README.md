@@ -1,5 +1,5 @@
 # SaaS Sales Data Analysis
-# Bagaimana diskon mempengaruhi profitabilitas secara keseluruhan?
+### Bagaimana diskon mempengaruhi profitabilitas secara keseluruhan?
 
 ## Overview
 Proyek ini menganalisis dampak diskon terhadap profitabilitas perusahaan SaaS (perusahaan fiktif). Analisisnya melibatkan pembersihan data, statistik deskriptif, analisis korelasi, dan regresi linier untuk memahami bagaimana diskon mempengaruhi penjualan dan profit. Dataset ini berisi data transaksi dari perusahaan SaaS fiktif yang menjual software penjualan dan pemasaran ke perusahaan lain (B2B).
